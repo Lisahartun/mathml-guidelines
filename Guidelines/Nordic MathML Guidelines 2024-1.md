@@ -44,11 +44,11 @@ The attribute `alttext` is used to provide an **alternative text** fallback for 
 
 The attribute `altimg` is used to provide an **alternative image** fallback for mathematical content. Usually this is just a screenshot of the rendered equation. It should used with caution, since MathML Core does not support the `altimg` attribute. It is also only a visual fallback, because you can't provide an alternative text for the fallback image. The Ordering Agency may decide if the attribute is used.
 
-### Block vs Inline
+### Block vs Inline (Lisa)
 
 <!--- displaystyle="true" for block -->
 
-### Presentation vs Content MathML
+### Presentation vs Content MathML (Lisa)
 
 <!--- Next section is completely based on Presentation MathML -->
 
